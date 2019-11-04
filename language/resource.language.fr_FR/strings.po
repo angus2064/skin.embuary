@@ -35,7 +35,7 @@ msgstr "Divers"
 #: /xml/MyVideoNav.xml
 msgctxt "#31002"
 msgid "More like this"
-msgstr "Plus de"
+msgstr "Similaire"
 
 #: /xml/DialogKeyboard.xml
 msgctxt "#31003"
